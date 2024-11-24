@@ -123,4 +123,4 @@ Images:
 That's all. HOPE YOU WILL ENJOY THE LAYOUT!
 
 
-Credit: gosherfed (yes... just him with his work)
+Credit: gosherfed (yes... just him and his work)

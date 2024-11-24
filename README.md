@@ -53,7 +53,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
 ![Screenshot (1027)](https://github.com/user-attachments/assets/289ef612-dc4f-4926-b20e-41c098b8e2d3)
 
 
-The archives you are going to download contains the files from Version 4.1 and the other ones.
+The archive you are going to download contains the files from Version 4.1 and the other ones.
 
     PLEASE READ:
 

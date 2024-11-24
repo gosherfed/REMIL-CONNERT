@@ -10,7 +10,7 @@ All later versions since Version 4.1 will always be published here.
     REMIL CONNERT - A MINIATURE LAYOUT BY GOSHERFED [OFFICIAL MOD PAGE]
 
 
-This a brand-new layout designed for anyone addicted to woods, mountains and stuffs.
+A brand-new layout designed for anyone addicted to woods, mountains and stuffs.
 Feel the thrill when taking a ride through every thick layer of the woods, exploring every town, and enjoying every beautiful moment given from the atmosphere.
 
 [KEEP SCROLLING THEN YOU WILL GO TO HOW-TO-INSTALL INSTRUCTIONS]

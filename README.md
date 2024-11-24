@@ -119,3 +119,8 @@ Images:
 ![Screenshot (1038)](https://github.com/user-attachments/assets/f58e74e1-fa7c-451b-ae3a-500ec16f6b9e)
 ![Screenshot (1037)](https://github.com/user-attachments/assets/6e6a601c-6347-4735-9b46-cde9eef6f081)
 ![Screenshot (991)](https://github.com/user-attachments/assets/0bf740cd-84ab-4ccb-8845-a6025919b72f)
+
+That's all. HOPE YOU WILL ENJOY THE LAYOUT!
+
+
+Credit: gosherfed (yes... just him with his work)

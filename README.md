@@ -24,7 +24,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
          1.Rehart (contains 2 stations)
          2.Dartos
          3.Quarsbat
-         4.Argraharate
+         4.Agraharate
          5.Carastege (contains Carastege Port)
          6.Harheshow
 

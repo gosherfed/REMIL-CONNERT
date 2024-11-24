@@ -1,4 +1,4 @@
-DISCLAIMER: Every layout ideas and designs in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
+DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
 
 REQUIREMENTS: ROLLING LINE (the base game)
 
@@ -32,7 +32,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
          1.Rehart Depot (near Rehart)
          2.Cebuste Depot (near Agraharate)
 
-    2 Region:
+    2 REGIONS:
         1.Remillia Region, contains:
             -Rehart Suburb Stop (separated from Rehart City)
             -Rehart Depot (separated from Rehart City)

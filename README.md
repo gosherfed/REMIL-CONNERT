@@ -1,7 +1,7 @@
 DISCLAIMER: Every layout ideas and designs in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
 
 
-    REMIL CONNERT - A MINIATURE LAYOUT BY GOSHERFED
+    REMIL CONNERTE - A MINIATURE LAYOUT BY GOSHERFED
 
 
 This a brand-new layout designed for anyone addicted to woods, mountains and stuffs.

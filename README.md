@@ -1,14 +1,16 @@
-DISCLAIMER: Every layout ideas and designs in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
-REQUIREMENTS: ROLLING LINE (THE BASE GAME)
+DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
+
+REQUIREMENTS: ROLLING LINE (the base game)
 
 This is the official page for Remil Connerte. This is just a mod for Rolling Line so you'll need to obtain yourself the base game in order to play this.
 All later versions since Version 4.1 will always be published here.
+
 (THE LAYOUT CONTAINS MASSIVE AMOUNT OF OBJECTS, FOR SOMEONE TRYING TO RUN THIS ON A POTATO PC, PLEASE USE THE VERSION 3.1 OR SCROLL DOWN AND READ THE "EXTRA NOTE")
 
     REMIL CONNERT - A MINIATURE LAYOUT BY GOSHERFED [OFFICIAL MOD PAGE]
 
 
-This a brand-new layout designed for anyone addicted to woods, mountains and stuffs.
+A brand-new layout designed for anyone addicted to woods, mountains and stuffs.
 Feel the thrill when taking a ride through every thick layer of the woods, exploring every town, and enjoying every beautiful moment given from the atmosphere.
 
 [KEEP SCROLLING THEN YOU WILL GO TO HOW-TO-INSTALL INSTRUCTIONS]
@@ -22,7 +24,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
          1.Rehart (contains 2 stations)
          2.Dartos
          3.Quarsbat
-         4.Argraharate
+         4.Agraharate
          5.Carastege (contains Carastege Port)
          6.Harheshow
 
@@ -30,7 +32,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
          1.Rehart Depot (near Rehart)
          2.Cebuste Depot (near Agraharate)
 
-    2 Region:
+    2 REGIONS:
         1.Remillia Region, contains:
             -Rehart Suburb Stop (separated from Rehart City)
             -Rehart Depot (separated from Rehart City)
@@ -53,7 +55,7 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
 ![Screenshot (1027)](https://github.com/user-attachments/assets/289ef612-dc4f-4926-b20e-41c098b8e2d3)
 
 
-The archives you are going to download contains the files from Version 4.1 and the other ones.
+The archive you are going to download contains the files from Version 4.1 and the other ones.
 
     PLEASE READ:
 
@@ -76,6 +78,7 @@ Here are: How to install the mod!
 
 Images:
 
+![Screenshot(1042)](https://github.com/user-attachments/assets/cfbbc540-7ac7-42ed-accf-35c944ba9c92)
 ![Screenshot (1036)](https://github.com/user-attachments/assets/5c2ff3db-68da-4bb0-b59b-5a7a77297ecd)
 ![Screenshot (988)](https://github.com/user-attachments/assets/f462b42e-cdbb-4112-aa1a-124c05e8e594)
 ![Screenshot (1034)](https://github.com/user-attachments/assets/29ea49d5-0983-4bb9-b1fe-03b7b55ed9d7)
@@ -117,9 +120,10 @@ Images:
 ![Screenshot (1038)](https://github.com/user-attachments/assets/f58e74e1-fa7c-451b-ae3a-500ec16f6b9e)
 ![Screenshot (1037)](https://github.com/user-attachments/assets/6e6a601c-6347-4735-9b46-cde9eef6f081)
 ![Screenshot (991)](https://github.com/user-attachments/assets/0bf740cd-84ab-4ccb-8845-a6025919b72f)
+![Screenshot (1069)](https://github.com/user-attachments/assets/f11f5dba-17e8-41b8-ad2d-6c1364a48b1c)
 
 
 That's all. HOPE YOU WILL ENJOY THE LAYOUT!
 
 
-Credit: gosherfed (yes... just him with his work)
+Credit: gosherfed

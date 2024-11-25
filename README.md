@@ -78,6 +78,7 @@ Here are: How to install the mod!
 
 Images:
 
+![Screenshot(1042)](https://github.com/user-attachments/assets/cfbbc540-7ac7-42ed-accf-35c944ba9c92)
 ![Screenshot (1036)](https://github.com/user-attachments/assets/5c2ff3db-68da-4bb0-b59b-5a7a77297ecd)
 ![Screenshot (988)](https://github.com/user-attachments/assets/f462b42e-cdbb-4112-aa1a-124c05e8e594)
 ![Screenshot (1034)](https://github.com/user-attachments/assets/29ea49d5-0983-4bb9-b1fe-03b7b55ed9d7)
@@ -123,4 +124,4 @@ Images:
 That's all. HOPE YOU WILL ENJOY THE LAYOUT!
 
 
-Credit: gosherfed (yes... just him and his work)
+Credit: gosherfed

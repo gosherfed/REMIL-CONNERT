@@ -2,7 +2,7 @@ DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout
 
 REQUIREMENTS: ROLLING LINE (the base game)
 
-This is the official page for Remil Connerte. This is just a mod for Rolling Line so you'll need to obtain yourself the base game in order to play this.
+This is the official page for REMIL CONNERT. This is just a mod for Rolling Line so you'll need to obtain yourself the base game in order to play this.
 All later versions since Version 4.1 will always be published here.
 
 (THE LAYOUT CONTAINS MASSIVE AMOUNT OF OBJECTS, FOR SOMEONE TRYING TO RUN THIS ON A POTATO PC, PLEASE USE THE VERSION 3.1 OR SCROLL DOWN AND READ THE "EXTRA NOTE")

@@ -1,9 +1,8 @@
-[BROWSE ALL GOSHERFED's PROJECTS](https://github.com/gosherfed/GOSHERFED-PROJECTS)
+[CLICK HERE TO VIEW OUR PROJECTS](https://github.com/gosherfed/GOSHERFED-PROJECTS)
 
-[BROWSE THE VERSIONS](https://github.com/gosherfed/REMIL-CONNERT/releases)
 
-[VISIT YOUTUBE CHANNEL](https://www.youtube.com/@8x7u8y)
---
+[CLICK HERE TO VIEW THE VERSIONS](https://github.com/gosherfed/REMIL-CONNERT/releases)
+
 
 DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
 
@@ -129,6 +128,9 @@ Images:
 ![Screenshot (991)](https://github.com/user-attachments/assets/0bf740cd-84ab-4ccb-8845-a6025919b72f)
 
 That's all. HOPE YOU WILL ENJOY THE LAYOUT!
+--
 
-
-Credit: gosherfed
+Credit: gosherfed (original creator), 8x7u8y and aezusg (side helpers)
+--
+Social Links (Only YouTube, other are confidential):
+[YouTube (8x7u8y)](https://www.youtube.com/@8x7u8y), [YouTube (gosherfed)](https://www.youtube.com/@gosherfed), [YouTube (aezusg)](https://www.youtube.com/@aezusg}

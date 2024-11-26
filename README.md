@@ -133,4 +133,6 @@ That's all. HOPE YOU WILL ENJOY THE LAYOUT!
 Credit: gosherfed (original creator), 8x7u8y and aezusg (side helpers)
 --
 Social Links (Only YouTube, other are confidential):
-[YouTube (8x7u8y)](https://www.youtube.com/@8x7u8y), [YouTube (gosherfed)](https://www.youtube.com/@gosherfed), [YouTube (aezusg)](https://www.youtube.com/@aezusg}
+
+
+[YouTube (8x7u8y)](https://www.youtube.com/@8x7u8y), [YouTube (gosherfed)](https://www.youtube.com/@gosherfed), [YouTube (aezusg)](https://www.youtube.com/@aezusg)

@@ -81,7 +81,7 @@ Here are: How to install the mod!
 
     HOW TO INSTALL REMIL CONNERT 4.1 TO ROLLING LINE:
     -Download the .rar file, unpack it.
-    -Choose one of the versions (latest is 4.1 and I recommend this), copy the Remil Connert folder to the following path: (...:\...\Rolling Line\Modding\mods)  or you can copy to the Saves folder as well!
+    -Choose one of the versions (latest is 4.1 and I recommend this), copy the Remil Connert folder (actually the folder name is misspelled to Remil Connerte) to the following path: (...:\...\Rolling Line\Modding\mods)  or you can copy to the Saves folder as well!
     -Launch the game and enjoy the layout!
 
 Images:

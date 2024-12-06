@@ -10,7 +10,9 @@ PLEASE NOTE THAT...
 --
 WE HAVE STOPPED THE DEVELOPMENT PROCESS ON REMIL CONNERT. THE LATEST (as well as) THE FINAL VERSION, (5.1), IS NOW AVAILABLE IN THE RELEASES TAB.
 
-Technically, the layout has been 100% complete, which may be (somehow) carrying some bugs. You can edit, expand or even upload the same layout with your modifications after getting our permission. That means: BEFORE UPLOADING YOUR MODIFICATIONS AND FIXES FOR REMIL CONNERT, PLEASE ASK , OR REQUEST IN THE COMMENT SECTIONS (AND PLEASE TAG THE ORIGINAL AUTHORS AND THE LAYOUT NAME AS WELL)!
+Technically, the layout has been 100% complete, which may be (somehow) carrying some bugs. You can edit, expand or even upload the same layout with your modifications. However: WHEN UPLOADING YOUR MODIFICATIONS AND FIXES FOR REMIL CONNERT, PLEASE TAG THE ORIGINAL AUTHORS AND THE LAYOUT NAME! 
+
+(you can use this tag: gosherfed, remil-connert, remilconnert)
 
 OVERVIEW
 --

@@ -6,20 +6,31 @@
 [CLICK HERE TO VIEW THE VERSIONS](https://github.com/gosherfed/REMIL-CONNERT/releases)
 
 
+PLEASE NOTE THAT...
+--
+WE HAVE STOPPED THE DEVELOPMENT PROCESS ON REMIL CONNERT. THE LATEST (as well as) THE FINAL VERSION, (5.1), IS NOW AVAILABLE IN THE RELEASES TAB.
+
+Technically, the layout has been 100% complete, which may be (somehow) carrying some bugs. You can edit, expand or even upload the same layout with your modifications after getting our permission. That means: BEFORE UPLOADING YOUR MODIFICATIONS AND FIXES FOR REMIL CONNERT, PLEASE ASK , OR REQUEST IN THE COMMENT SECTIONS (AND PLEASE TAG THE ORIGINAL AUTHORS AND THE LAYOUT NAME AS WELL)!
+
+OVERVIEW
+--
 DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
 
-REQUIREMENTS: ROLLING LINE (the base game)
+    REMIL CONNERT - A MINIATURE LAYOUT BY GOSHERFED [OFFICIAL MOD PAGE]
+
+
+A brand-new layout designed for anyone addicted to woods, mountains and stuffs.
+
+Feel the thrill when taking a ride through every thick layer of the woods, exploring every town, and enjoying every beautiful moment given from the atmosphere.
 
 This is the official page for REMIL CONNERT. This is just a mod for Rolling Line so you'll need to obtain yourself the base game in order to play this.
 All later versions since Version 4.1 will always be published here.
 
 (THE LAYOUT CONTAINS MASSIVE AMOUNT OF OBJECTS, FOR SOMEONE TRYING TO RUN THIS ON A POTATO PC, PLEASE USE THE VERSION 3.1 OR SCROLL DOWN AND READ THE "EXTRA NOTE")
 
-    REMIL CONNERT - A MINIATURE LAYOUT BY GOSHERFED [OFFICIAL MOD PAGE]
-
-
-A brand-new layout designed for anyone addicted to woods, mountains and stuffs.
-Feel the thrill when taking a ride through every thick layer of the woods, exploring every town, and enjoying every beautiful moment given from the atmosphere.
+REQUIREMENTS
+--
+ROLLING LINE (the base game), its version must at least be 5.17
 
 [KEEP SCROLLING THEN YOU WILL GO TO HOW-TO-INSTALL INSTRUCTIONS]
 

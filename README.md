@@ -25,7 +25,8 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
 
 ![Screenshot (993)](https://github.com/user-attachments/assets/25554938-0ec9-48ce-9f2d-b1696eacd33a)
 
-
+CONTENTS
+--
     THE VERSION 4.1 CONTAINS: 
     
     6 TOWNS:
@@ -59,10 +60,15 @@ Feel the thrill when taking a ride through every thick layer of the woods, explo
         -Contains working automatic tracks (with stop signs, speed limit signs and horn signs).
         -Contains 1 AI train.
 
-    FOR MORE INFORMATION, HERE'S THE MAP:
+THE MAP
+--
 ![Screenshot (1027)](https://github.com/user-attachments/assets/289ef612-dc4f-4926-b20e-41c098b8e2d3)
 
 
+
+
+MUST-READ BEFORE INSTALLING (about some performance issues)
+--
 The archive you are going to download contains the files from Version 4.1 and the other ones.
 
     PLEASE READ:
@@ -76,15 +82,15 @@ The archive you are going to download contains the files from Version 4.1 and th
         -Try not to spawn too many objects while editing.
         -You can try Version 3.1. It contains much less details when consisting only 50% contents of the 4.1 (without the Connert Tasherag Route) so that your computer will be more likely to run it stably (and better FPS,too!).
 
-
-Here are: How to install the mod!
-
+HOW TO INSTALL
+--
     HOW TO INSTALL REMIL CONNERT 4.1 TO ROLLING LINE:
     -Download the .rar file, unpack it.
     -Choose one of the versions (latest is 4.1 and I recommend this), copy the Remil Connert folder (actually the folder name is misspelled to Remil Connerte) to the following path: (...:\...\Rolling Line\Modding\mods)  or you can copy to the Saves folder as well!
     -Launch the game and enjoy the layout!
 
-Images:
+IMAGES
+--
 
 ![Screenshot(1042)](https://github.com/user-attachments/assets/cfbbc540-7ac7-42ed-accf-35c944ba9c92)
 ![Screenshot (1036)](https://github.com/user-attachments/assets/5c2ff3db-68da-4bb0-b59b-5a7a77297ecd)
@@ -130,10 +136,13 @@ Images:
 ![Screenshot (991)](https://github.com/user-attachments/assets/0bf740cd-84ab-4ccb-8845-a6025919b72f)
 
 That's all. HOPE YOU WILL ENJOY THE LAYOUT!
---
 
-Credit: gosherfed (original creator), 8x7u8y and aezusg (side helpers)
+
+CREDITS
 --
+gosherfed (original creator), 8x7u8y and aezusg (side helpers)
+
+
 Social Links (Only YouTube, other are confidential):
 
 
